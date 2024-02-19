@@ -2037,11 +2037,13 @@ Services Details Area CSS
   margin-top: 10px;
   margin-bottom: 25px;
 } */
+  
  /* Custom CSS */
+
  .custom-card {
   text-align: center;
   padding-top: 20px;
-  height: 400px;
+  height: 470px;
   border-top: 4px solid var(--mainColor);
   border-top-right-radius: 72px;
   background-color: transparent;
