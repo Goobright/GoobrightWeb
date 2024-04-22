@@ -1300,7 +1300,7 @@ Main Banner Area CSS
   right: 0;
   content: '';
   position: absolute;
-  bottom: -2px;
+  bottom: -10px;
   height: 100px;
   z-index: 1;
   background-image: url(../images/banner-shape.png);
